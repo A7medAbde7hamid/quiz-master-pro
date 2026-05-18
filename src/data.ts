@@ -207,7 +207,7 @@ const englishGrammarMCQ: Question[] = [
   { id: 2, question: "They ___ football now.", options: ["plays", "are playing", "played", "play"], correct: 1, explanation: "Present continuous for action happening now." },
   { id: 3, question: "I ___ already finished my homework.", options: ["am", "was", "have", "had"], correct: 2, explanation: "Present perfect: 'have' + past participle." },
   { id: 4, question: "He ___ not like coffee.", options: ["do", "does", "did", "doing"], correct: 1, explanation: "Third person negative: 'does not'." },
-  { id: 5, question: "We ___ studying for the exam at the moment.", options: ["study", "studied", "are", "are studying"], correct: 3, explanation: "Present continuous: 'are studying'." },
+  { id: 5, question: "We ___ studying for the exam at the moment.", options: ["study", "studied", "are", "are studying"], correct: 2, explanation: "Present continuous: 'are studying'." },
   { id: 6, question: "She ___ lived here since 2020.", options: ["is", "has", "was", "have"], correct: 1, explanation: "Present perfect with 'since': 'has lived'." },
   { id: 7, question: "They ___ dinner every night at 8.", options: ["eating", "eat", "eats", "ate"], correct: 1, explanation: "Present simple for routine: 'eat'." },
   { id: 8, question: "I ___ working on the project now.", options: ["was", "am", "is", "be"], correct: 1, explanation: "Present continuous with 'am'." },
