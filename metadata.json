@@ -1,0 +1,8 @@
+{
+  "name": "Quiz Master Pro",
+  "description": "A comprehensive multi-subject quiz platform covering AI Programming, Operating Systems, Digital Logic, Negotiation, and Human Rights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
